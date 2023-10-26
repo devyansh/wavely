@@ -36,12 +36,12 @@ graph TD
     F[Audio File] --> C
     D --> |GET request|B
 
-    style A fill:#00008b, stroke:#333, stroke-width:2px, color:#FFFFFF;
-    style B fill:#00008b, stroke:#333, stroke-width:2px, color:#FFFFFF;
-    style C fill:#8b0000, stroke:#333, stroke-width:2px, color:#FFFFFF;
-    style D fill:#8b0000, stroke:#333, stroke-width:2px, color:#FFFFFF;
-    style E fill:#008000, stroke:#333, stroke-width:2px, color:#FFFFFF;
-    style F fill:#008000, stroke:#333, stroke-width:2px, color:#FFFFFF;
+    style A fill:#ADD8E6, stroke:#333, stroke-width:2px;
+    style B fill:#ADD8E6, stroke:#333, stroke-width:2px;
+    style C fill:#8b0000, stroke:#333, stroke-width:2px;
+    style D fill:#8b0000, stroke:#333, stroke-width:2px;
+    style E fill:#008000, stroke:#333, stroke-width:2px;
+    style F fill:#008000, stroke:#333, stroke-width:2px;
 ```
 
 ## Installation 
