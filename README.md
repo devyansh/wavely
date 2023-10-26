@@ -18,7 +18,7 @@ detect_mood() and  download_blob_from_storage() downloads audio files from Azure
 It also uses the Azure SDK for Python to connect to Azure Blob Storage.
 ### Azure Blob Storage Connection String
 
-You can find your Azure Blob Storage connection string in the Azure Portal. This connection string is required for authentication.
+Azure Blob Storage connection string can be found in the Azure Portal. This connection string is required for authentication.
 
 ## Architecture Diagram
 ```mermaid
